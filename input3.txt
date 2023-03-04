@@ -10,7 +10,7 @@ int main() {
     if (sum > 30) {
         std::cout << "The sum is greater than 30" << std::endl;
     } else {
-        std::cout << "The sum is not greater than 30\n";
+        std::cout << "The sum is not greater than 30" << std::endl;
     } endif
 
     for (int i = 0; i < 5; i ++) {

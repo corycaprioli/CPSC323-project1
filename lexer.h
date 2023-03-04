@@ -1,4 +1,5 @@
-#pragma once
+#ifndef LEXER_H
+#define LEXER_H
 
 #include <iostream>
 #include <fstream>
@@ -41,3 +42,5 @@ class Lexer {
 	std::string getLexeme() const;
 
 };
+
+#endif

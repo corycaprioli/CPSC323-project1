@@ -1,0 +1,28 @@
+#include <iostream>
+
+int main() {
+    int number_10 = 10;
+    int number20__ = 20;
+    int sum = number_10 + number20__;
+
+    std::cout << "The sum of " << number_10 << " and " << number20__ << " is " << sum << std::endl;
+
+    if (sum > 30) {
+        std::cout << "The sum is greater than 30" << std::endl;
+    } else {
+        std::cout << "The sum is not greater than 30\n";
+    } endif
+
+    for (int i = 0; i < 5; i ++) {
+        std :: cout << i << std::endl;
+    }
+
+    int counter_up_to_5 = 0;
+
+    while (counter_up_to_5 < 5) {
+        std::cout << counter_up_to_5 << std::endl;
+        counter_up_to_5 ++;
+    } endwhile
+
+    return 0;
+}

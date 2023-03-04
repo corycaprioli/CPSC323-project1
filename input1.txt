@@ -1,0 +1,7 @@
+while  (fahr123 <= upper)   a = 23.00; endwhile
+
+char name.23fun;
+
+if(input_2 == 5) {
+  std::cout << "hello";
+} endif

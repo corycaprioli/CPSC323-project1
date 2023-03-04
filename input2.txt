@@ -1,0 +1,17 @@
+int main() {
+    int _x56 = 5.74;
+    int y_728 = 10_38;
+    int zf.423 = x * y;
+    int z *= y;
+    std::cout << "this is a sentence";
+    if (z > 15) {
+        cout << "The sum is greater than 15." << endl;
+    } else {
+        cout << "The sum is not greater than 15." << endl;
+    } endif
+    while (x < 10) {
+        cout << x << endl;
+        x ++;
+    } endwhile
+    return 0;
+}
